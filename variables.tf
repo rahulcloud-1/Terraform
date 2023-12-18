@@ -48,9 +48,8 @@ variable "admin_password" {
   description = "password of the server admin"
 }
 
-variable "sqldb_name" {
-  type        = string
-  default     = "sqlDB"
-  description = "name of the sql DB"
-}
-
+//variable "sqldb_name" {
+  //type        = string
+  //default     = "sqlDB"
+  //description = "name of the sql DB"
+//}

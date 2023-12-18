@@ -10,4 +10,4 @@ server_name = "ilmssqlserver"
 admin_login = "iladmin"
 admin_password = "Idea@2023"
 
-sqldb_name = "SQLdb1"
+//sqldb_name = "SQLdb1"
